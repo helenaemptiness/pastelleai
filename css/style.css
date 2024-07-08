@@ -603,8 +603,17 @@
     }
 }
 @media screen and (max-width: 470px) {
-     .specific__images {
-        width:30%;
-        height: auto;
-     }
+    .specific__images {
+        width: 45%;
+        height: 600px;
+    }
+    .betatest__form input {
+        font-size: 16px;
+    }
+    .betatest__form {
+        padding: 0;
+    }
+    .betatest__btn {
+        font-sixe: 24px;
+    }
 }
