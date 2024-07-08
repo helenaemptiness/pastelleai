@@ -602,3 +602,11 @@
         transform: scale(0.8);
     }
 }
+@media screen and (max-width: 670px) {
+    .specific__img--1 {
+        height:50%;
+    }
+    .specific__img--2 {
+        height:50%;
+    }
+}
