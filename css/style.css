@@ -614,6 +614,9 @@
     .betatest__form {
         padding: 0;
     }
+    .betatest__wrapper {
+        font-size: 24px;
+    }
     .betatest__btn {
         font-size: 24px;
     }
